@@ -1,0 +1,132 @@
+@import url('https://fonts.cdnfonts.com/css/millimetre');
+
+:root {
+  --bgDefault: #002727;
+  --bgDark: #001414;
+  --bgLight: #294b4b;
+  --bgAlt: #001111;
+  --bgLightAlt: #007037;
+}
+
+body {
+  background-color: #002727;
+  color: #fff;
+  font-family: 'Millimetre', sans-serif;
+  font-weight: 500;
+}
+
+.main_menu {
+  background-color: var(--bgLight);
+  border-top: none;
+}
+.main_menu .navbar {
+  padding: 0;
+}
+.main_menu .navbar-light .navbar-nav .nav-link {
+  font-size: 12px;
+  line-height: 14px;
+}
+a {
+  font-family: 'Millimetre', sans-serif;
+}
+
+.banner_part .banner_text p {
+  color: #fff;
+}
+
+.banner_part .banner_text h1 span {
+  color: #fff;
+  opacity: 0.8;
+}
+
+.player_info {
+  background-color: var(--bgDark);
+}
+
+.about_part::after,
+.upcoming_event::after,
+.blog_part::after {
+  background-color: var(--bgDark);
+}
+.gallery_part .grid-item {
+  border-color: var(--bgDark);
+}
+
+.social_connect_part .social_connect {
+  border-color: var(--bgDark);
+}
+.copyright_part {
+  background-color: var(--bgAlt);
+}
+.about_text h4,
+.section_tittle h4 {
+  color: var(--bgLightAlt);
+}
+
+.slider_content {
+  display: none;
+}
+
+.learn_about .overlay::after {
+  opacity: 0.3;
+}
+
+.learn_about h4 {
+  color: #fff;
+}
+
+.footer-area {
+  background-color: var(--bgDefault);
+}
+
+.banner_text .btn_1 span {
+  color: #fff;
+}
+.upcoming_event .upcoming_event_1 .upcoming_event_text {
+  background-color: var(--bgDefault);
+}
+
+.player_info .owl-nav {
+  left: 59%;
+  right: unset;
+  bottom: 10px;
+}
+.main_menu ul li :hover {
+  color: var(--bgDefault) !important;
+}
+
+.navbar-defined {
+  min-height: 40px;
+}
+
+.logo_desc {
+  letter-spacing: 1px;
+  text-transform: capitalize;
+  color: #444;
+}
+
+@media only screen and (min-width: 100px) and (max-width: 991px) {
+  .main_menu .navbar-collapse {
+    background-color: var(--bgLight);
+    position: unset;
+  }
+
+  .navbar-nav {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 360px) {
+  .main_menu .nav-item {
+    padding: 0 10px;
+  }
+}
+@media (max-width: 764px) {
+  .owl-nav{
+    display: none;
+  }
+}
