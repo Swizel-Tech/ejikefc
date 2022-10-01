@@ -64,13 +64,13 @@
           <span class="contact-info__icon"><i class="ti-home"></i></span>
           <div class="media-body">
             <h3>Abuja.</h3>
-            <p>Gwara, AA 91770</p>
+            <p>A23 Copa Cabana Estate Apo Lokogoma Abuja</p>
           </div>
         </div>
         <div class="media contact-info">
           <span class="contact-info__icon"><i class="ti-tablet"></i></span>
           <div class="media-body">
-            <h3>+234 90 000000</h3>
+            <h3>08138397926 </h3>
             <p>Mon to Fri 9am to 6pm</p>
           </div>
         </div>
@@ -78,7 +78,7 @@
           <span class="contact-info__icon"><i class="ti-email"></i></span>
           <div class="media-body">
             <p>Send us your query anytime!</p>
-            <p>mail: ejikefc.global@gmail.com</p>
+            <p>mail: ECUGBOAJA@GMAIL.COM</p>
           </div>
         </div>
       </div>

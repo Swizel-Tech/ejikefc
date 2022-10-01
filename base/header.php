@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-  <title>Ejike Ugboaja Fc || The ultimate team</title>
+  <title>Ejike Ugboaja Fc || Let us continue to continue</title>
   <link rel="icon" href="img/favicon.png" />
 
   <link rel="stylesheet" href="css/bootstrap.min.css" />
@@ -24,7 +24,7 @@
             <div id="logo">
               <a href="index.html">
                 <img width="90" src="img/Logo.png" alt="" title="" /></a>
-              <p class="mt-3 logo_desc">The ultimate team ...</p>
+              <p class="mt-3 logo_desc">Let us continue to continue.</p>
             </div>
           </div>
         </div>

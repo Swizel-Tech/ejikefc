@@ -1,7 +1,6 @@
 <footer class="copyright_part">
   <div class="container">
-    <div class="row align-items-center justify-content-center">
-      <p class="footer-text m-0">
+    <div class="row align-items-center justify-content-center"><p class="footer-text m-0">
         &copy;
         <script>
           document.write(new Date().getFullYear());
@@ -9,6 +8,7 @@
         Designed by
         <a href="https://swizel.co" target="_blank">Swizel</a>
       </p>
+      <br>
     </div>
 </footer>
 
